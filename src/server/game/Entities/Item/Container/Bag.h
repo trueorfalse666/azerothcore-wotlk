@@ -18,8 +18,8 @@
 #ifndef ACORE_BAG_H
 #define ACORE_BAG_H
 
-// Maximum 98 Slots ((CONTAINER_END - CONTAINER_FIELD_SLOT_1)/2
-#define MAX_BAG_SIZE 98                                    // 2.0.12
+// Maximum 96 Slots ((CONTAINER_END - CONTAINER_FIELD_SLOT_1)/2
+#define MAX_BAG_SIZE 96                                    // 2.0.12
 
 #include "Item.h"
 #include "ItemTemplate.h"
